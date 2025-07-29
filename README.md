@@ -78,8 +78,14 @@ Through this, I developed skills in data cleaning, which is a vital first step i
    - Real-world data cleaning logic
    - Combining multiple functions in a single formula
    - Understanding character positions within strings
+     
+- Screenshots
 
-
+<img width="391" height="674" alt="Practice 8(Extraction)" src="https://github.com/user-attachments/assets/893e363a-5b0c-47cc-b26a-3aa630ba8cc0" />
+<img width="578" height="687" alt="Practice 7(Extraction)" src="https://github.com/user-attachments/assets/92f276c1-4994-46d7-9675-34a110839a49" />
+<img width="574" height="702" alt="Practice 6(Extraction)" src="https://github.com/user-attachments/assets/c015ff4e-dd43-4079-92f4-a2c14c48c2f4" />
+<img width="1282" height="768" alt="Practice 5(Extraction)" src="https://github.com/user-attachments/assets/5810981f-7cab-4812-aac9-01379a63aac1" />
+<img width="1306" height="757" alt="Practice 4(Extraction)" src="https://github.com/user-attachments/assets/5e97fffe-394b-4470-9799-af30e7e282d6" />
 
 
 
